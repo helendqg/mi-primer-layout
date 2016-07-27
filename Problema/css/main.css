@@ -1,0 +1,42 @@
+/*css encabezado*/
+.cabeza{
+
+}
+.cuadros{
+
+}
+.menu{
+	
+}
+/* hoja de vida*/
+.foto{
+ 	border-radius:100%;
+ 	width:150px;
+ 	height:150px;
+ 	position:relative;
+	left:40%;
+}
+/* css nuestras coders*/
+.titulo{
+	font-size:20px;
+}
+.raya{
+	border:1px  black solid;
+	width: 80px;
+}
+.bloque{
+	display: block;
+	width:800px;
+	height:400px;
+}
+.fila{
+	position:relative;
+	display:inline-block;
+	margin:10px;
+}
+.text{
+	position:absolute;
+	bottom:0;
+	right:0;
+	 color:white;
+}
